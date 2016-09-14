@@ -3,3 +3,6 @@ You could also use sublime
 
 Do you know where you are going to ?
 Do you like things life is showing you?
+
+This text is for the branch exercise.
+Working on the tree.
