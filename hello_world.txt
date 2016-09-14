@@ -1,2 +1,5 @@
 This is a text file which contains changes to track for git hub.
 You could also use sublime
+
+Do you know where you are going to ?
+Do you like things life is showing you?
